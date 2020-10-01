@@ -1,14 +1,14 @@
 #include <stdio.h>
 int main()
 {
-  int ar[100], search,  n;
+  int ar[100], search,c,n;
 
   printf("Enter number of elements in array\n");
   scanf("%d", &n);
 
   printf("Enter %d integer(s)\n", n);
 
-  for d = 0; c < n; c++)
+  for (c = 0; c < n; c++)
     scanf("%d", &array[c])
 
   printf("Enter a number to search\n");
