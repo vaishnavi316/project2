@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  int ar[100], search,c,n;
+  int ar[100], search, c, n;
 
   printf("Enter number of elements in array\n");
   scanf("%d", &n);
